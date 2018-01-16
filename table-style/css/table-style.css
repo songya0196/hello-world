@@ -26,8 +26,7 @@
 	        border-radius:5px;
     	}
     	table > tbody > tr:hover td.first-cell{
-    	  
-	       background:url(../img/MouseOver_list_point.png) no-repeat left center;
+    	  background:url(../img/MouseOver_list_point.png) no-repeat left center;
 	       background-color:#fff;
 	       z-index: 10;
 	      }
